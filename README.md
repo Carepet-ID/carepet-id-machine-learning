@@ -18,7 +18,7 @@ In this project, the machine learning team will create a machine learning model 
 - Model building and training in Jupyter Notebooks
 - Model evaluation and metrics calculation
 - Saving and loading trained models
-- Visualization of training progress and results
+- Export Model to TFJS
 
 ## Datasets
 
