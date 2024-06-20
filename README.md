@@ -20,18 +20,16 @@ This repository contains Jupyter Notebooks (`.ipynb`) for training machine learn
 - Model building and training in Jupyter Notebooks
 - Model evaluation and metrics calculation
 - Saving and loading trained models
-- Visualization of training progress and results
 
 ## Technologies Used
 
 - **Programming Language**: Python
-- **Libraries**: TensorFlow/PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- **Environment Management**: Anaconda/Virtualenv
-- **Configuration**: YAML
+- **Libraries**: TensorFlow, Scikit-learn, Pandas, NumPy, Jupyter
+- **Environment Management**: Kaggle
 
 ## Datasets
 
-The datasets used in this project should be placed in the `data/raw` directory. The `data_preprocessing.ipynb` notebook handles the cleaning and transformation of the raw data into a format suitable for training.
+[Dog-Skin-Diseases-Dataset](http://example.com)
 
 ## Installation
 
