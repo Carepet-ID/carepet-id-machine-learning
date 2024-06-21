@@ -18,7 +18,7 @@ In this project, the machine learning team will create a machine learning model 
 - Model building and training in Jupyter Notebooks
 - Model evaluation and metrics calculation
 - Saving and loading trained models
-- Export Model to Tensorflo.js
+- Export Model to TFJS
 
 ## Datasets
 
